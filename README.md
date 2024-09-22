@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lettucend
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : here
+- 👋 Hi, I’m Bianca
+- 👀 I’m interested in machine learning and storytelling with data. 
+- 🌱 I’m currently learning Power BI to visualize and view actionable insights from a non for profit organization.
+- 💞️ I’m looking to collaborate on new AI and LLMs APIs. 
+- 📫 How to reach me : https://www.linkedin.com/in/bianca-7b661b1a4/
 
 <!---
 lettucend/lettucend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
